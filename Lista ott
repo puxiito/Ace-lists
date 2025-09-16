@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://tropical.jungle-team.online/epg/koala3.xml.gz"
+#EXTM3U url-tvg="http://tropical.jungle-team.online/epg/koala3.xml"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/24%20Horas%20HD.png" tvg-id="24 Horas" group-title="MOVISTAR", 24 HORAS HD --> NEW ERA
 acestream://cc5ed178702605513cd18b4899c4be954d306cca
