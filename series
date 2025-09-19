@@ -3,9 +3,4 @@
 #EXTINF:-1 tvg-id="Cap. 1 Plats Bruts" tvg-group="Plats Bruts", Cap1. Tinc Pis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://adaptive-int.3catvideos.cat/6/5/126167956/1720532675112/stream.mpd|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="Cap. 1 Plats Bruts" tvg-group="Plats Bruts", Cap1. Tinc Pis
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://adaptive-int.3catvideos.cat/6/5/126167956/1720532675112/stream.mpd
-
