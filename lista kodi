@@ -26,7 +26,7 @@ plugin://script.module.horus?action=play&id=73094658f0a3ed523c0e188de67a7a690c0d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="TDT", LA SEXTA FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="TDT", fdf
-https://mitele.es/directo/fdf
+https://dai.google.com/linear/hls/pa/event/K5OUSWF1QzGErl9IuIXylQ/stream/45faf139-d80a-465a-870e-6499c14bc035:BRU/variant/38b7c6bdba5a374c1a4f0884088c6019/bandwidth/4814000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="TDT", TELEDEPORTE FHD --> NEW ERA
 plugin://script.module.horus?action=play&id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="TDT", TELEDEPORTE FHD --> NEW ERA
