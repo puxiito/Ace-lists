@@ -37,6 +37,11 @@ http://127.0.0.1:6878/ace/getstream?id=9fb99c40a2c45d5c5342b30626eb56140f980612
 http://127.0.0.1:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Arag%C3%B3n%20TV%20Internacional.png?raw=true" tvg-id="Aragón TV" group-title="TDT", ARAGON TV HD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
+#EXTINF:-1,ES: DMAX
+http://127.0.0.1:6878/ace/getstream?infohash=fe843c4cff7614fa10a3384eeeae595c96404d52&pid=632
+#EXTINF:-1,ES: FACTORÍA DE FICCIÓN
+http://127.0.0.1:6878/ace/getstream?infohash=83f4b36d17aefee787d49a37d03c6effd68017f3&pid=639
+
 
 --------
 
