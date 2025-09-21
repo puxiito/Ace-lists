@@ -334,11 +334,11 @@ http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DE | DAZN 1 BAR HD" group-title="FUTBOL INT", DAZN 1 BAR HD [DE]
 http://127.0.0.1:6878/ace/getstream?infohash=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1,Sky Bundesliga 1 HD [DE]
+#EXTINF:-1 tvg-id="DE | Sky Bundesliga 1 HD" group-title="FUTBOL INT", Sky Bundesliga 1 HD [DE]
 http://127.0.0.1:6878/ace/getstream?infohash=dfbb321c7ee0d3309a03770fea07c67434182acc&pid=1575
-#EXTINF:-1,Sky Sport 1 HD [DE]
+#EXTINF:-1 tvg-id="DE | Sky Sport 1 HD" group-title="FUTBOL INT", Sky Sport 1 HD [DE]
 http://127.0.0.1:6878/ace/getstream?infohash=00c505e3e33687ecac47ef2a555497e66ebdc5af&pid=1591
-#EXTINF:-1,Sky Sport 2 HD [DE]
+#EXTINF:-1 tvg-id="DE | Sky Sport 2 HD" group-title="FUTBOL INT", Sky Sport 2 HD [DE]
 http://127.0.0.1:6878/ace/getstream?infohash=2707b05c94cf5d582e8ff71d3b35f8d1219ad0ac&pid=1592
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.nl" group-title="FUTBOL INT", ZIGGO SPORT [NL] --> NEW LOOP
