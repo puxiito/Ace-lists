@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pcYSn2YX2XLqBsq6R0kKoyCkex.jpg",Los Tortuga (2025) BluRay Rip (6.6)
-acestream://62d34755da428d686b58adc2349ba7ed3787bf58
+plugin://script.module.horus?action=play&id=62d34755da428d686b58adc2349ba7ed3787bf58
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pcYSn2YX2XLqBsq6R0kKoyCkex.jpg",Los Tortuga (2025) BluRay 720pRip (6.6)
-acestream://4f76968e2e133ba5775d09136c5d645a012881db
+plugin://script.module.horus?action=play&id=4f76968e2e133ba5775d09136c5d645a012881db
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xxmiejiP664Pyyjdftx8BWzHDS.jpg",Jane Austen arruino mi vida (2025) BluRay Rip (6.8)
-acestream://26c2d0c2178fd2a04f82b0fb2abc8b60b662e6a7
+plugin://script.module.horus?action=play&id=26c2d0c2178fd2a04f82b0fb2abc8b60b662e6a7
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xxmiejiP664Pyyjdftx8BWzHDS.jpg",Jane Austen arruino mi vida (2025) BluRay 720pRip (6.8)
-acestream://9a4bdcc9bb98d6902671594ed14116ecd5044e24
+plugin://script.module.horus?action=play&id=9a4bdcc9bb98d6902671594ed14116ecd5044e24
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNyzZaMDS5hmOzWHFgNlgRRPDB0.jpg",Fight or Flight (2025) BluRay Rip (6.1)
 acestream://8d99907a7b2f98097b486b19b6086c0115383d89
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNyzZaMDS5hmOzWHFgNlgRRPDB0.jpg",Fight or Flight (2025) BluRay 720pRip (6.1)
@@ -35,7 +35,7 @@ acestream://d9a8568d3480414a536fbb9e69d5cc0ce1936f41
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j0moebdCWDjjwS6bz1ohrsRp1Vp.jpg",Los tipos malos 2 (2025) BluRay Rip (7.8*)
 acestream://83611f6c0295d266a949f74495901de9de5959a0
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j0moebdCWDjjwS6bz1ohrsRp1Vp.jpg",Los tipos malos 2 (2025) BluRay 1080p (7.8*)
-acestream://ca5fae71a361a1e127b3218509300af42e941908
+plugin://script.module.horus?action=play&id=ca5fae71a361a1e127b3218509300af42e941908
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j0moebdCWDjjwS6bz1ohrsRp1Vp.jpg",Los tipos malos 2 (2025) web dl Hd 1080p (7.8*)
 acestream://142c429e57eda1b2795f188964edba3bbdf44c89
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dP9K1gVK9mBksCSn1Z7E64OMoRG.jpg",El cuento del lobo (2025) BluRay Rip (6.0*)
