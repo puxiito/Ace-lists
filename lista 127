@@ -155,5 +155,8 @@ http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 ------------------------------------
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", PRUEBA
-http://127.0.0.1:6878/ace/getstream?infohash=162efd7572532d353fdc1a79f0146574e9b7d8ec&pid=357
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="DAZN LaLiga BAR HD" group-title="LALIGA", DAZN LaLiga BAR HD
+http://127.0.0.1:6878/ace/getstream?infohash=162efd7572532d353fdc1a79f0146574e9b7d8ec
+DAZN 1 -DE-
+http://127.0.0.1:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
+
