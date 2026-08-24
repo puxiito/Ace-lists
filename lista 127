@@ -155,3 +155,5 @@ http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
 ------------------------------------
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", PRUEBA
+http://127.0.0.1:6878/ace/getstream?infohash=162efd7572532d353fdc1a79f0146574e9b7d8ec&pid=357
