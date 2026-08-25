@@ -1,6 +1,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 HD" group-title="TDT", LA 1 HD
+http://127.0.0.1:6878/ace/getstream?infohash=481c1fb401bb4f4b35d272acbd4fedaf96c51aff
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" tvg-id="La Sexta HD" group-title="TDT", LA Sexta HD
+http://127.0.0.1:6878/ace/getstream?infohash=1d349b65c0ef3a85533f22ec9d792f41520def47
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL.png" tvg-id="GOL" group-title="TDT", GOL TV HD
+http://127.0.0.1:6878/ace/getstream?infohash=1d11030bbc036fa0b45d1837164e0d666e388e7e
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD --> NEW ERA
@@ -9,45 +18,71 @@ http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES HD --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes" group-title="MOVISTAR", MOVISTAR DEPORTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES
 http://127.0.0.1:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", MOVISTAR VAMOS FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", MOVISTAR VAMOS FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", MOVISTAR VAMOS
+http://127.0.0.1:6878/ace/getstream?infohash=9dcfaae97cd36be63dd1e10705f1b33ec586e5a5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=9be118a64eb603b5eb62be6cf27631d3891b5174
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF HD --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 
------------------------------------
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA
 http://127.0.0.1:6878/ace/getstream?id=3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga" group-title="LA LIGA", M+ LALIGA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga" group-title="LA LIGA", M+ LALIGA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA
 http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA
+http://127.0.0.1:6878/ace/getstream?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2
+http://127.0.0.1:6878/ace/getstream?infohash=ece9d873508195d3cbb61d4edd428b59f47a1541
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD --> NEW ERA hypermotion
 http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga" group-title="LA LIGA", DAZN LA LIGA 1 FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga" group-title="LA LIGA", DAZN LA LIGA 1 FHD --> NEW ERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DAZN LA LIGA 1 " group-title="LA LIGA", DAZN LA LIGA 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD " group-title="LA LIGA", DAZN LA LIGA 1
 http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD " group-title="LA LIGA", DAZN LA LIGA 1
+http://127.0.0.1:6878/ace/getstream?infohash=8a25653a2f774f4ae1062d38a30dcd714d304a3a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD " group-title="LA LIGA", DAZN LA LIGA 1
+http://127.0.0.1:6878/ace/getstream?infohash=633a6637f12d4d3dfa5b4f0a8460ab5523fe537c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD " group-title="LA LIGA", DAZN LA LIGA 1
+http://127.0.0.1:6878/ace/getstream?infohash=f2de0f135999f8f68d1ffe4fd898e16ddfe0facf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD " group-title="LA LIGA", DAZN LA LIGA 2
+http://127.0.0.1:6878/ace/getstream?infohash=4e8f13dfa3a7719ce7c0e381cce2c58afc5ce61f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DAZN LaLiga BAR HD" group-title="LALIGA", DAZN LaLiga BAR HD
+http://127.0.0.1:6878/ace/getstream?infohash=162efd7572532d353fdc1a79f0146574e9b7d8ec
 
 -----------------------------------
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION
+http://127.0.0.1:6878/ace/getstream?infohash=b2e44f314c554294cc3b42f867bd432bd3306aab
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION SD --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION FHD
+http://127.0.0.1:6878/ace/getstream?infohash=db8fcc855bf35be188bdfc51f4aa47586daff096
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION HD
+http://127.0.0.1:6878/ace/getstream?infohash=667d02d2b74030c97333df88d5b75c5dcd165715
 
------------------------------------
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 --> NEW LOOP 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2
+http://127.0.0.1:6878/ace/getstream?infohash=c93a0d4914713db942fbb210bac467b0224c63a6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3
+http://127.0.0.1:6878/ace/getstream?infohash=98fba924421aa1e4bd28e74d74a2726d0459b594
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD --> NEW ERA
@@ -55,7 +90,7 @@ http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 
------------------------------------
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
@@ -63,14 +98,25 @@ http://127.0.0.1:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES --> NEW
 http://127.0.0.1:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES
-6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES
+http://127.0.0.1:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 HD
+http://127.0.0.1:6878/ace/getstream?infohash=cc3d749cfd30877b418f1d59a80d9291e0f091c8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 3 HD
+http://127.0.0.1:6878/ace/getstream?infohash=8cc8e3c092fa238bc0cbc65382ae436131fc3eab
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4 HD" group-title="LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 4 HD
+http://127.0.0.1:6878/ace/getstream?infohash=2550ea6d32d3384dcc8ac149c711bceb70d4b005
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" tvg-id="M+ Liga de Campeones 5 HD" group-title="LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 5 HD
+http://127.0.0.1:6878/ace/getstream?infohash=90ed151957e8198fa993c6cdb4bacb59481c3e09
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" tvg-id="M+ Liga de Campeones 5 HD" group-title="LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 5 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
 
------------------------------------
+
+
 
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football" group-title="FUTBOL INT", SKY SPORTS FOOTBALL [UK] --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
@@ -116,6 +162,10 @@ http://127.0.0.1:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN.4.nl" group-title="FUTBOL INT", ESPN 4 [BE] --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DE | DAZN 1 HD" group-title="FUTBOL INT", DAZN 1 HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DE | DAZN 2 HD" group-title="FUTBOL INT", DAZN 2 HD [DE]
+http://127.0.0.1:6878/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DE | DAZN 1 BAR HD" group-title="FUTBOL INT", DAZN 1 BAR HD [DE]
 http://127.0.0.1:6878/ace/getstream?infohash=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="DE | Sky Bundesliga 1 HD" group-title="FUTBOL INT", Sky Bundesliga 1 HD [DE]
@@ -139,74 +189,38 @@ http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 
------------------------------------
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 4K
+http://127.0.0.1:6878/ace/getstream?infohash=c95512caeb8ab562d2dbb4242e97ac3283fba1ec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 HD
+http://127.0.0.1:6878/ace/getstream?infohash=db465a3577b263c4fe671b8c1337878034716348
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 HD
+http://127.0.0.1:6878/ace/getstream?infohash=e3762efb1b0db5bb7a089973913bd9bdab12b454
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 
------------------------------------
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 
-------------------------------------
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="DAZN LaLiga BAR HD" group-title="LALIGA", DAZN LaLiga BAR HD
-http://127.0.0.1:6878/ace/getstream?infohash=162efd7572532d353fdc1a79f0146574e9b7d8ec
-DAZN 1 -DE-
-http://127.0.0.1:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
-DAZN 2 -DE-
-http://127.0.0.1:6878/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
-DAZN F1 4K
-http://127.0.0.1:6878/ace/getstream?infohash=c95512caeb8ab562d2dbb4242e97ac3283fba1ec
-DAZN F1 HD
-http://127.0.0.1:6878/ace/getstream?infohash=db465a3577b263c4fe671b8c1337878034716348
-DAZN F1 HD
-http://127.0.0.1:6878/ace/getstream?infohash=e3762efb1b0db5bb7a089973913bd9bdab12b454
-M+ HYPERMOTION
-http://127.0.0.1:6878/ace/getstream?infohash=b2e44f314c554294cc3b42f867bd432bd3306aab
-DAZN LA LIGA
-http://127.0.0.1:6878/ace/getstream?infohash=8a25653a2f774f4ae1062d38a30dcd714d304a3a
-DAZN LA LIGA 2
-http://127.0.0.1:6878/ace/getstream?infohash=4e8f13dfa3a7719ce7c0e381cce2c58afc5ce61f
-DAZN LA LIGA
-http://127.0.0.1:6878/ace/getstream?infohash=633a6637f12d4d3dfa5b4f0a8460ab5523fe537c
-dazn la liga
-http://127.0.0.1:6878/ace/getstream?infohash=f2de0f135999f8f68d1ffe4fd898e16ddfe0facf&pid=388
-dazn 2
-http://127.0.0.1:6878/ace/getstream?infohash=c93a0d4914713db942fbb210bac467b0224c63a6&pid=397
-dazn 3
-http://127.0.0.1:6878/ace/getstream?infohash=98fba924421aa1e4bd28e74d74a2726d0459b594&pid=398
-gol tv
-http://127.0.0.1:6878/ace/getstream?infohash=1d11030bbc036fa0b45d1837164e0d666e388e7e&pid=572
-hypermotion fhd
-http://127.0.0.1:6878/ace/getstream?infohash=db8fcc855bf35be188bdfc51f4aa47586daff096&pid=623
-la 1 
-http://127.0.0.1:6878/ace/getstream?infohash=481c1fb401bb4f4b35d272acbd4fedaf96c51aff&pid=700
-hypermotion tv 
-http://127.0.0.1:6878/ace/getstream?infohash=667d02d2b74030c97333df88d5b75c5dcd165715&pid=705
-la sexta 
-http://127.0.0.1:6878/ace/getstream?infohash=1d349b65c0ef3a85533f22ec9d792f41520def47&pid=711
-m+ la liga
-http://127.0.0.1:6878/ace/getstream?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c&pid=732
-m+ la liga 2
-http://127.0.0.1:6878/ace/getstream?infohash=ece9d873508195d3cbb61d4edd428b59f47a1541&pid=733
-liga de campeones 
-http://127.0.0.1:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373&pid=736
-liga campeones 2
-http://127.0.0.1:6878/ace/getstream?infohash=cc3d749cfd30877b418f1d59a80d9291e0f091c8&pid=738
-liga campeones 3
-http://127.0.0.1:6878/ace/getstream?infohash=8cc8e3c092fa238bc0cbc65382ae436131fc3eab&pid=739
-liga campeones 4
-http://127.0.0.1:6878/ace/getstream?infohash=2550ea6d32d3384dcc8ac149c711bceb70d4b005&pid=740
-liga campeones 5
-http://127.0.0.1:6878/ace/getstream?infohash=90ed151957e8198fa993c6cdb4bacb59481c3e09&pid=768
-#vamos
-http://127.0.0.1:6878/ace/getstream?infohash=9dcfaae97cd36be63dd1e10705f1b33ec586e5a5&pid=1409
+
+
+
+
+
+
+
+
+
+
+
 
 
 
