@@ -104,6 +104,8 @@ http://127.0.0.1:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fd
 http://127.0.0.1:6878/ace/getstream?infohash=cc3d749cfd30877b418f1d59a80d9291e0f091c8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 HD
+http://127.0.0.1:6878/ace/getstream?infohash=38f7b2044e549df2039ff26cefa6f9a60c854d5e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 3 HD
 http://127.0.0.1:6878/ace/getstream?infohash=8cc8e3c092fa238bc0cbc65382ae436131fc3eab
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 3 HD p
